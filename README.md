@@ -120,4 +120,13 @@ This project successfully demonstrates the use of Power BI to create an interact
 
 <img width="1166" height="657" alt="image" src="https://github.com/user-attachments/assets/0097c0fb-4f48-4224-b69d-be456fc77444" />
 
+Sclicer : 
+
+<img width="321" height="192" alt="image" src="https://github.com/user-attachments/assets/c3096a24-7336-4d65-9d71-0be6dcb723f8" />
+
+overall output of the dashboard : 
+
+<img width="1918" height="1018" alt="image" src="https://github.com/user-attachments/assets/39a1e5c1-ebf0-423c-935f-fcd7f658509a" />
+
+
 
