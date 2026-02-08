@@ -116,3 +116,8 @@ This project successfully demonstrates the use of Power BI to create an interact
 
 ---
 
+## Output screenshots : 
+
+<img width="1166" height="657" alt="image" src="https://github.com/user-attachments/assets/0097c0fb-4f48-4224-b69d-be456fc77444" />
+
+
